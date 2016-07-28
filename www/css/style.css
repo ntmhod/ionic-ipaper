@@ -1,0 +1,99 @@
+body, .ionic-body, .bar.bar-light .title, .button.button-light {
+	color: #002D56;
+}
+.bar.bar-light .button {
+	color: #58B6E7;
+}
+.light-blue {
+	color: #58B6E7;
+}
+.red {
+	color: #A10D31;
+}
+.green {
+	color: #92AF2B;
+}
+.yellow {
+	color: #FFD600;
+}
+.orange {
+	color: #F6891F;
+}
+.bar-subheader.bar-light {
+	border-top: none !important;
+	margin-bottom: 100px;
+}
+.scroll-content {
+	background: #f7f7f7 !important;
+}
+.row.grid-items {
+	flex-wrap: wrap;
+	text-align: center;
+}
+.row.grid-items .col {
+	flex: none;
+	width: 33.3%;
+	min-height: 146px;
+	min-width: 104px;
+	background: url(../img/loader.gif) no-repeat 50% 50%;
+}
+.row.grid-items a {
+	text-decoration: none;
+	color: #999;
+}
+.row.grid-items p {
+	font-size: .8em;
+	line-height: 1.1em;
+}
+.row.grid-items img {
+	border-radius: 4px;
+	border: 1px solid #ccc;
+	pading: 2px;
+	width: 100%;
+	height: auto;
+}
+.ipaper-holder {
+	background: url(../img/loader.gif) no-repeat 50% 50%;
+}
+/* iOS hack for display issue */
+.platform-ios.platform-cordova:not(.fullscreen) .scroll-content {
+	padding-top: 20px !important;
+}
+@font-face {
+	font-family: 'icomoon';
+	src: url('fonts/icomoon.eot?xuchsb');
+	src: url('fonts/icomoon.eot?xuchsb#iefix') format('embedded-opentype'),  url('fonts/icomoon.ttf?xuchsb') format('truetype'),  url('fonts/icomoon.woff?xuchsb') format('woff'),  url('fonts/icomoon.svg?xuchsb#icomoon') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+[class^="icon-"], [class*=" icon-"] {
+	/* use !important to prevent issues with browser extensions that change fonts */
+	font-family: 'icomoon' !important;
+	speak: none;
+	font-style: normal;
+	font-weight: normal;
+	font-variant: normal;
+	text-transform: none;
+	line-height: 1;
+	/* Better Font Rendering =========== */
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+.icon-newspaper:before {
+	content: "\e900";
+}
+.icon-search:before {
+	content: "\e901";
+}
+.icon-circle-right:before {
+	content: "\e902";
+}
+.icon-circle-left:before {
+	content: "\e903";
+}
+.icon.icon-circle-right {
+	font-size: 1.4em !important;	
+}
+.bar .button.button-icon {
+	font-size: 10px !important;
+}

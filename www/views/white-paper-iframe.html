@@ -1,0 +1,9 @@
+<ion-view view-title="iPaper">
+  <ion-content padding="false">
+      <ion-item class="item ipaper-holder" ng-repeat="item in wp_data | filter: { id: wp_datadetail }" style="padding:0;">
+        
+          <iframe id="ipaper" ng-src="{{ item.url | iframeUrl }}" frameborder="0" width="100%" height="{{ device_height }}px"></iframe>
+        
+      </ion-item>
+  </ion-content>
+</ion-view>

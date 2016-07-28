@@ -1,0 +1,26 @@
+<ion-view view-title="White Papers">
+
+<ion-nav-buttons side="secondary">
+      <button class="button button-icon icon icon-search" ng-click="toggleSearch()" ng-class="{ active: showSearch }"></button>
+    </ion-nav-buttons>
+    
+    <div class="bar bar-subheader item-input-inset bar-light" ng-if="searchBar">
+    <label class="item-input-wrapper">
+        <i class="icon icon-search placeholder-icon"></i>
+        <input type="search" placeholder="Search">
+    </label>
+    </div><!--/bar-->
+  
+  <ion-content padding="true" class="has-header" ng-class="{'has-subheader': searchBar}">
+    
+       <div class="row grid-items"> 
+          <div class="col" ng-repeat="item in wp_data"> 
+           <a href="#/white-paper-iframe/{{ item.id }}">
+            <img ng-src="http://www.publications.issworld.com/ISS/{{ item.url }}/ImageProxy.ashx?PageNumber=1&ImageType=Normal" alt="">
+            <p>{{ item.name }}</p>
+            </a>
+          </div><!--/col-->
+        </div><!--/row-->
+      
+  </ion-content>
+</ion-view>

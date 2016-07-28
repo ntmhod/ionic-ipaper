@@ -1,0 +1,13 @@
+<ion-view view-title="iPaper">
+  <ion-content padding="true" class="has-header">
+      
+      <ion-list class="list-inset">
+      <ion-item ng-repeat="item in data" class="item item-icon-left item-icon-right" href="{{ item.route }}">
+          <i class="{{ item.left_icon }}"></i>
+          {{ item.name }}
+          <i class="{{ item.right_icon }}"></i>
+        </ion-item>
+      </ion-list>
+      
+  </ion-content>
+</ion-view>

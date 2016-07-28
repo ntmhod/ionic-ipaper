@@ -1,0 +1,316 @@
+{
+  "landing_buttons": [
+    {
+      "route": "#/monthly-briefing",
+      "name": "Monthly Briefing",
+      "left_icon": "icon ion-ios-book red",
+      "right_icon": "icon ion-arrow-right-c light-blue"
+    },
+    {
+      "route": "#/together-magazine",
+      "name": "Together Magazine",
+      "left_icon": "icon ion-ios-book green",
+      "right_icon": "icon ion-arrow-right-c light-blue"
+    },
+    {
+      "route": "#/white-papers",
+      "name": "White Papers",
+      "left_icon": "icon ion-ios-book yellow",
+      "right_icon": "icon ion-arrow-right-c light-blue"
+    },
+    {
+      "route": "#/our-services",
+      "name": "Our Services",
+      "left_icon": "icon ion-ios-book orange",
+      "right_icon": "icon ion-arrow-right-c light-blue"
+    }
+  ],
+  "monthly_briefing": [
+    {
+      "id": "25",
+      "url": "UK/MonthlyBriefing/January2016",
+      "name": "January 2016"
+    },
+    {
+      "id": "24",
+      "url": "UK/MonthlyBriefing/December2015",
+      "name": "December 2015"
+    },
+    {
+      "id": "23",
+      "url": "UK/MonthlyBriefing/November2015",
+      "name": "November 2015"
+    },
+    {
+      "id": "22",
+      "url": "UK/MonthlyBriefing/October2015",
+      "name": "October 2015"
+    },
+    {
+      "id": "21",
+      "url": "UK/MonthlyBriefing/September2015",
+      "name": "September 2015"
+    },
+    {
+      "id": "20",
+      "url": "UK/MonthlyBriefing/August2015",
+      "name": "August 2015"
+    },
+    {
+      "id": "19",
+      "url": "UK/MonthlyBriefing/July2015",
+      "name": "July 2015"
+    },
+    {
+      "id": "18",
+      "url": "UK/MonthlyBriefing/June2015",
+      "name": "June 2015"
+    },
+    {
+      "id": "17",
+      "url": "UK/MonthlyBriefing/May2015",
+      "name": "May 2015"
+    },
+    {
+      "id": "16",
+      "url": "UK/MonthlyBriefing/April2015",
+      "name": "April 2015"
+    },
+    {
+      "id": "15",
+      "url": "UK/MonthlyBriefing/March2015",
+      "name": "March 2015"
+    },
+    {
+      "id": "14",
+      "url": "UK/MonthlyBriefing/February2015",
+      "name": "February 2015"
+    },
+    {
+      "id": "13",
+      "url": "UK/MonthlyBriefing/January2015",
+      "name": "January 2015"
+    },
+    {
+      "id": "12",
+      "url": "UK/MonthlyBriefing/December2014",
+      "name": "December 2014"
+    },
+    {
+      "id": "11",
+      "url": "UK/MonthlyBriefing/November2014",
+      "name": "November 2014"
+    },
+    {
+      "id": "10",
+      "url": "UK/MonthlyBriefing/October2014",
+      "name": "October 2014"
+    },
+    {
+      "id": "9",
+      "url": "UK/MonthlyBriefing/September2014",
+      "name": "September 2014"
+    },
+    {
+      "id": "8",
+      "url": "UK/MonthlyBriefing/August2014",
+      "name": "August 2014"
+    },
+    {
+      "id": "7",
+      "url": "UK/MonthlyBriefing/July2014",
+      "name": "July 2014"
+    },
+    {
+      "id": "6",
+      "url": "UK/MonthlyBriefing/June2014",
+      "name": "June 2014"
+    },
+    {
+      "id": "5",
+      "url": "UK/MonthlyBriefing/May2014",
+      "name": "May 2014"
+    },
+    {
+      "id": "4",
+      "url": "UK/MonthlyBriefing/April2014",
+      "name": "April 2014"
+    },
+    {
+      "id": "3",
+      "url": "UK/MonthlyBriefing/March2014",
+      "name": "March 2014"
+    },
+    {
+      "id": "2",
+      "url": "UK/MonthlyBriefing/February2014",
+      "name": "February 2014"
+    },
+    {
+      "id": "1",
+      "url": "UK/MonthlyBriefing/January2014",
+      "name": "January 2014"
+    }
+  ],
+  "white_papers": [
+    {
+      "id": "20",
+      "url": "External/issworld/White_papers/Diversitymanagementprovideshigherearnings/",
+      "name": "A Diverse Leadership yields higher earnings"
+    },
+    {
+      "id": "19",
+      "url": "External/issworld/White_papers/LinkingEmployeeandCustomerEngagement/",
+      "name": "Linking Customer Experience with Service Employee Engagement"
+    },
+    {
+      "id": "18",
+      "url": "External/issworld/White_papers/Perspectives_on_the_FM_market_development/",
+      "name": "Perspectives on the FM market development"
+    },
+    {
+      "id": "17",
+      "url": "External/issworld/White_papers/ManagingandMitigatingriskwithinStrategicFacilityManagement/",
+      "name": "Managing and Mitigating risk within Strategic Facility Management"
+    },
+    {
+      "id": "16",
+      "url": "External/issworld/White_papers/Service_Management_30/",
+      "name": "The Next Generation of Service"
+    },
+    {
+      "id": "15",
+      "url": "External/issworld/White_papers/Employee_engagement/",
+      "name": "Employee engagement - the crucial role of the supervisor"
+    },
+    {
+      "id": "14",
+      "url": "External/issworld/White_papers/Defining_Service_Excellence_in_Facility_Management/",
+      "name": "Defining Service Excellence in Facility Management"
+    },
+    {
+      "id": "13",
+      "url": "External/issworld/White_papers/Effective_training/",
+      "name": "Effective training of front-line service employees"
+    },
+    {
+      "id": "12",
+      "url": "External/issworld/White_papers/New_Ways_of_Working/",
+      "name": "How ‘New Ways of Working’ affect our use of facilities"
+    },
+    {
+      "id": "11",
+      "url": "External/issworld/White_papers/The_value_of_Strategic_HR_processes/",
+      "name": "The value of Strategic HR processes"
+    },
+    {
+      "id": "10",
+      "url": "External/issworld/White_papers/Creating_a_Security_Request_for_Proposal/",
+      "name": "Creating a Security Request for Proposal"
+    },
+    {
+      "id": "9",
+      "url": "External/issworld/White_papers/Working_with_Change_Management_in_Service_Outsourcing/",
+      "name": "Working with Change Management in Service Outsourcing"
+    },
+    {
+      "id": "8",
+      "url": "External/issworld/White_papers/Service_innovation_in_the_Facility_Management_industry/",
+      "name": "Service innovation in the Facility Management industry"
+    },
+    {
+      "id": "7",
+      "url": "External/issworld/White_papers/Indirect_cost_savings_when_outsourcing/",
+      "name": "Indirect cost savings when outsourcing"
+    },
+    {
+      "id": "6",
+      "url": "External/issworld/White_papers/Diversity_in_Outsourcing/",
+      "name": "Diversity in Outsourcing"
+    },
+    {
+      "id": "5",
+      "url": "External/issworld/White_papers/HR_issues_to_be_considered_when_outsourcing_services/",
+      "name": "HR issues to be considered when outsourcing services"
+    },
+    {
+      "id": "4",
+      "url": "External/issworld/White_papers/Multiskilling_and_job_satisfaction_in_outsourcing/",
+      "name": "Multiskilling and job satisfaction in outsourcing"
+    },
+    {
+      "id": "3",
+      "url": "External/issworld/White_papers/Successful_transition_in_outsourcing/",
+      "name": "Successful transition in outsourcing"
+    },
+    {
+      "id": "2",
+      "url": "External/issworld/White_papers/Trends_and_Developments_with_in_Facility_Management/",
+      "name": "Trends and Developments within Facility Management"
+    },
+    {
+      "id": "1",
+      "url": "External/issworld/White_papers/Securing_Your_Facility_During_Special_Events/",
+      "name": "Securing Your Facility During Special Events"
+    }
+  ],
+  "our_services": [
+    {
+      "id": "8",
+      "url": "External/issworld/Our_Services/ISS_Health_Care_Services/",
+      "name": "Health Care Services"
+    },
+    {
+      "id": "7",
+      "url": "External/issworld/Our_Services/Support_The_ISS_Way/",
+      "name": "Support the ISS Way"
+    },
+    {
+      "id": "6",
+      "url": "External/issworld/Our_Services/Security_The_ISS_Way/",
+      "name": "Security the ISS Way"
+    },
+    {
+      "id": "5",
+      "url": "External/issworld/Our_Services/Property_The_ISS_Way/",
+      "name": "Property the ISS Way"
+    },
+    {
+      "id": "4",
+      "url": "External/issworld/Our_Services/Cleaning_The_ISS_Way/",
+      "name": "Cleaning the ISS Way"
+    },
+    {
+      "id": "3",
+      "url": "External/issworld/Our_Services/Catering_The_ISS_Way/",
+      "name": "Catering the ISS Way"
+    },
+    {
+      "id": "2",
+      "url": "External/issworld/Our_Services/Facility_Management_the_ISS_Way/",
+      "name": "FM the ISS Way"
+    },
+    {
+      "id": "1",
+      "url": "External/issworld/Our_Services/Corporate_Brochure/",
+      "name": "Corporate Brochure"
+    }
+  ],
+  "together_magazine": [
+    {
+      "id": "3",
+      "url": "UK/TogetherMagazine/Winter2015/",
+      "name": "Winter 2015"
+    },
+    {
+      "id": "2",
+      "url": "UK/TogetherMagazine/Autumn2015/",
+      "name": "Autumn 2015"
+    },
+    {
+      "id": "1",
+      "url": "UK/TogetherMagazine/Spring2015/",
+      "name": "Spring 2015"
+    }
+  ]
+}

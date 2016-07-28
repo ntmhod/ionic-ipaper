@@ -1,0 +1,59 @@
+body, .ionic-body, .bar.bar-light .title, .button.button-light {
+	color: #002D56;
+}
+.bar.bar-light .button {
+	color: #58B6E7;
+}
+.light-blue {
+	color: #58B6E7;
+}
+.red {
+	color: #A10D31;
+}
+.green {
+	color: #92AF2B;
+}
+.yellow {
+	color: #FFD600 ;
+}
+.orange {
+	color: #F6891F;
+}
+.bar-subheader.bar-light {
+	border-top: none !important;
+	margin-bottom: 100px;
+}
+.scroll-content {
+	background: #f7f7f7 !important;
+}
+.row.grid-items {
+	flex-wrap: wrap;
+	text-align: center;
+}
+.row.grid-items .col {
+	flex: none;
+	width: 33.3%;
+	min-height: 146px;
+	min-width: 104px;
+	background: url(../img/loader.gif) no-repeat 50% 50%;
+}
+.row.grid-items a {
+	text-decoration: none;
+	color: #999;
+}
+.row.grid-items p {
+	font-size: .8em;
+	line-height: 1.1em;
+}
+.row.grid-items img {
+	border-radius: 4px;
+	border: 1px solid #ccc;
+	pading: 2px;
+}
+.ipaper-holder {
+	background: url(../img/loader.gif) no-repeat 50% 50%;
+}
+/* iOS hack for display issue */
+.platform-ios.platform-cordova:not(.fullscreen) .scroll-content {
+  padding-top: 20px !important;
+}
